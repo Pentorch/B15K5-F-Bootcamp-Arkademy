@@ -17,7 +17,7 @@ cara menjalankan program:
 yang harus disiapkan untuk menjalankan **soal 6**:
 * Install Web Server(Xampp,Lamp,Mamp, dll) karena soal-6 membutuhkan web server dan database server.
 * disini menggunakan **Xampp**
-* clone/download repository **B15K4-D-Bootcamp-Arkademy
+* clone/download repository **B15K5-F-Bootcamp-Arkademy
 ** simpan di direktori Web Server, contoh: **xampp (C:/xampp/htdocs/)**
 
 **Soal 6a** <br/>
